@@ -23,4 +23,4 @@ class ECTS {
     }
 }
 
-export default ECTS;
+module.exports = ECTS;
